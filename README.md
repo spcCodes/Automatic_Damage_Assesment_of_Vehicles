@@ -9,4 +9,6 @@ The dataset can be found in the link below:
 
 https://drive.google.com/drive/folders/1okissx8L6gO7VTzjanHys1hvEd8pdeE5?usp=sharing
 
+The notebooks and scripts for the training and testing of models can be found in scripts and notebooks folder
+
 
